@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('DISQUS_VERSION', '1.0');
-@define('DISQUS_BUILD', '0');
+@define('DISQUS_BUILD', '1');
 
 
 /**
