@@ -3,10 +3,10 @@
 /**
  * disqus extension for Contao Open Source CMS
  *
- * Copyright (C) 2013 Codefog Ltd
+ * Copyright (C) 2013 Codefog
  *
  * @package disqus
- * @author  Codefog Ltd <http://codefog.pl>
+ * @author  Codefog <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @license LGPL
  */
@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('DISQUS_VERSION', '1.0');
-@define('DISQUS_BUILD', '1');
+@define('DISQUS_BUILD', '2');
 
 
 /**
