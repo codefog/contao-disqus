@@ -1,7 +1,7 @@
 disqus Changelog
 ================
 
-Version 1.1.0 stable (2013-??-??)
+Version 1.1.0 stable (2013-12-31)
 ---------------------------------
 
 ### Improved
