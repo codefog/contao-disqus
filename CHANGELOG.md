@@ -1,6 +1,11 @@
 disqus Changelog
 ================
 
+Version 1.1.0 stable (2013-??-??)
+---------------------------------
+- Added the German translation (thanks to Sebastian Seidel)
+
+
 Version 1.0.2 stable (2013-11-30)
 ---------------------------------
 - Updated the autoload.ini file
