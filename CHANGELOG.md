@@ -1,6 +1,14 @@
 disqus Changelog
 ================
 
+Version 1.1.1 stable (2014-12-18)
+---------------------------------
+
+### Improved
+- Added the composer.json file
+- Updated the readme file
+
+
 Version 1.1.0 stable (2013-12-31)
 ---------------------------------
 
